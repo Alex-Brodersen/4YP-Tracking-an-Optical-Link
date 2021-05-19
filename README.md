@@ -1,5 +1,5 @@
 # 4YP-Tracking-an-Optical-Link
-This repository contains Matlab scripts for (1) optical link modelling and (2) decoding and analysis of Pixy2 camera data from an Arduino.
+This repository contains Matlab scripts for (1) optical link modelling and (2) decoding and analysis of Pixy2 camera data from an Arduino, which is then used to estimate the position of a camera.
 
 (1) Optical link modelling
 
