@@ -5,7 +5,7 @@ This repository contains Matlab scripts for (1) optical link modelling and (2) d
 
 "pathloss_r_theta_independent.m" models the path loss of a beam with range, for varying beam half angles and for 1cm^2 of collector area.
 
-"OMEGA_graph.m" uses "pathloss_r_theta_independent.m", adjusted for the parameters in the OMEGA system.
+"OMEGA_graph.m" uses "pathloss_r_theta_independent.m", which uses parameters from the OMEGA system to model its path loss.
 
 "FWFangles_w_range_max_Acoll.m" models the path loss with range for varying beam half angles, with an ideal collection area which is perfectly coupled to the beam. The fibre parameters used are for a 62.5/125 multimode fibre from fibremart.com
 
